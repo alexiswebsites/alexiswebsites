@@ -18,8 +18,11 @@ MySQL, PostgreSQL, SQLite, Neon, phpMyAdmin, MySQL Workbench, XAMPP, WAMP
 ### Herramientas de desarrollo
 Visual Studio Code, Git, GitHub, NetBeans, Code::Blocks, npm, PSeInt, Terminal, Figma, Chrome DevTools
 
-### CMS, SEO y marketing digital
-WordPress, Elementor, Astra, Pods, WPCode, SEO, Google Ads, Meta Ads
+### CMS y desarrollo web sin código
+WordPress, Elementor, Astra, Pods, WPCode
+
+### SEO y marketing digital
+SEO, Google Ads, Meta Ads
 
 ### Despliegue y hosting
 Vercel, Hostinger, gestión de dominios, despliegue desde GitHub
