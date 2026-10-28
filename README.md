@@ -2,7 +2,7 @@
 
 ### Desarrollador web Full Stack
 
-Soy de Guadalajara, Jalisco, México. Estudié la carrera técnica de Tecnólogo Profesional en Sistemas Informáticos. Disfruto de la programación, me apasiona la tecnología y cada día aprendo más. Soy cuidadoso y comprometido con la calidad de mi trabajo. Tengo facilidad para adaptarme a nuevos lenguajes de programación y trabajar en distintos tipos de software. No me limito a un área específica de la programación.
+Soy de Guadalajara, Jalisco, México. Estudié la carrera técnica de Tecnólogo Profesional en Sistemas Informáticos en la Escuela Politécnica de Guadalajara. Disfruto de la programación, me apasiona la tecnología y cada día aprendo más. Soy cuidadoso y comprometido con la calidad de mi trabajo. Tengo facilidad para adaptarme a nuevos lenguajes de programación y trabajar en distintos tipos de software. No me limito a un área específica de la programación.
 
 ## Tecnologías
 
