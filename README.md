@@ -27,6 +27,6 @@ SEO, Google Ads, Meta Ads
 ### Despliegue y hosting
 Vercel, Hostinger, gestión de dominios, despliegue desde GitHub
 
-## Portfolio
+## Portafolio
 
-🌐 [alexissanchez.vercel.app](https://alexissanchez.vercel.app)
+https://alexissanchez.vercel.app
